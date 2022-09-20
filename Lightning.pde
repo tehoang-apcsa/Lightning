@@ -28,7 +28,7 @@ rect(0,210,70,70);
 ellipse(44,210,70,70);
 
 
-System.out.println(mouseX + "," + mouseY);
+
   if(endX < 750 && mousePressed && (mouseButton == LEFT) == true) 
   {
     stroke(25,127,208,120);
